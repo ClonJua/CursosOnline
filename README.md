@@ -130,8 +130,28 @@ Uso de insomnia para pruebas HTTP
 
 Estructura del Proyecto
 
-
 ![image](https://github.com/user-attachments/assets/0de931df-4aa0-4a16-96bd-e7ef300b1d12)
+
+#Visualización de Datos con Power BI
+
+Abre Power BI Desktop.
+
+Selecciona Obtener datos > Web.
+
+Ingresa la URL de la API:
+
+Para inscripciones SQL: http://localhost:8080/inscripciones
+
+Para inscripciones MongoDB: http://localhost:8080/mongo/inscripciones
+
+Navega por el JSON recibido y selecciona la lista de inscripciones.
+
+Carga los datos y repite el proceso para la otra API si quieres comparar.
+
+![image](https://github.com/user-attachments/assets/d7bea461-9112-4e70-9f88-a0ac069fb8c4)
+
+![image](https://github.com/user-attachments/assets/9044ec3a-f494-4701-a291-ead213225445)
+
 
 
 
