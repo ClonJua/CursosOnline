@@ -124,9 +124,13 @@ DELETE /mongo/inscripciones/{id} → Eliminar inscripción
 ![image](https://github.com/user-attachments/assets/974a2760-5b78-409f-83d5-3618022ecbff)
 
 Uso de insomnia para pruebas HTTP
+
+
 ![image](https://github.com/user-attachments/assets/97a77aff-28f6-4032-acc5-58952d4373ac)
 
 Estructura del Proyecto
+
+
 ![image](https://github.com/user-attachments/assets/0de931df-4aa0-4a16-96bd-e7ef300b1d12)
 
 
