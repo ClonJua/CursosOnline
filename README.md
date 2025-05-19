@@ -15,6 +15,7 @@ Tecnologías Utilizadas
 - Insomnia (para pruebas)
 
 ---
+![image](https://github.com/user-attachments/assets/edf747b3-36b9-4a79-9cae-cda1547fac91)
 
 Cómo ejecutar el proyecto
 
